@@ -13,397 +13,397 @@ output: html_document
 ### Measure fields
 - tBodyAcc.mean.X
 
-![Alt ](tBodyAcc.mean.X.png)
+![Alt ](img/tBodyAcc.mean.X.png)
 
 
 ***
 - tBodyAcc.mean.Y
 
-![Alt ](tBodyAcc.mean.Y.png)
+![Alt ](img/tBodyAcc.mean.Y.png)
 
 
 ***
 - tBodyAcc.mean.Z
 
-![Alt ](tBodyAcc.mean.Z.png)
+![Alt ](img/tBodyAcc.mean.Z.png)
 
 
 ***
 - tGravityAcc.mean.X
 
-![Alt ](tGravityAcc.mean.X.png)
+![Alt ](img/tGravityAcc.mean.X.png)
 
 
 ***
 - tGravityAcc.mean.Y
 
-![Alt ](tGravityAcc.mean.Y.png)
+![Alt ](img/tGravityAcc.mean.Y.png)
 
 
 ***
 - tGravityAcc.mean.Z
 
-![Alt ](tGravityAcc.mean.Z.png)
+![Alt ](img/tGravityAcc.mean.Z.png)
 
 
 ***
 - tBodyAccJerk.mean.X
 
-![Alt ](tBodyAccJerk.mean.X.png)
+![Alt ](img/tBodyAccJerk.mean.X.png)
 
 
 ***
 - tBodyAccJerk.mean.Y
 
-![Alt ](tBodyAccJerk.mean.Y.png)
+![Alt ](img/tBodyAccJerk.mean.Y.png)
 
 
 ***
 - tBodyAccJerk.mean.Z
 
-![Alt ](tBodyAccJerk.mean.Z.png)
+![Alt ](img/tBodyAccJerk.mean.Z.png)
 
 
 ***
 - tBodyGyro.mean.X
 
-![Alt ](tBodyGyro.mean.X.png)
+![Alt ](img/tBodyGyro.mean.X.png)
 
 
 ***
 - tBodyGyro.mean.Y
 
-![Alt ](tBodyGyro.mean.Y.png)
+![Alt ](img/tBodyGyro.mean.Y.png)
 
 
 ***
 - tBodyGyro.mean.Z
 
-![Alt ](tBodyGyro.mean.Z.png)
+![Alt ](img/tBodyGyro.mean.Z.png)
 
 
 ***
 - tBodyGyroJerk.mean.X
 
-![Alt ](tBodyGyroJerk.mean.X.png)
+![Alt ](img/tBodyGyroJerk.mean.X.png)
 
 
 ***
 - tBodyGyroJerk.mean.Y
 
-![Alt ](tBodyGyroJerk.mean.Y.png)
+![Alt ](img/tBodyGyroJerk.mean.Y.png)
 
 
 ***
 - tBodyGyroJerk.mean.Z
 
-![Alt ](tBodyGyroJerk.mean.Z.png)
+![Alt ](img/tBodyGyroJerk.mean.Z.png)
 
 
 ***
 - tBodyAccMag.mean.
 
-![Alt ](tBodyAccMag.mean..png)
+![Alt ](img/tBodyAccMag.mean..png)
 
 
 ***
 - tGravityAccMag.mean.
 
-![Alt ](tGravityAccMag.mean..png)
+![Alt ](img/tGravityAccMag.mean..png)
 
 
 ***
 - tBodyAccJerkMag.mean.
 
-![Alt ](tBodyAccJerkMag.mean..png)
+![Alt ](img/tBodyAccJerkMag.mean..png)
 
 
 ***
 - tBodyGyroMag.mean.
 
-![Alt ](tBodyGyroMag.mean..png)
+![Alt ](img/tBodyGyroMag.mean..png)
 
 
 ***
 - tBodyGyroJerkMag.mean.
 
-![Alt ](tBodyGyroJerkMag.mean..png)
+![Alt ](img/tBodyGyroJerkMag.mean..png)
 
 
 ***
 - fBodyAcc.mean.X
 
-![Alt ](fBodyAcc.mean.X.png)
+![Alt ](img/fBodyAcc.mean.X.png)
 
 
 ***
 - fBodyAcc.mean.Y
 
-![Alt ](fBodyAcc.mean.Y.png)
+![Alt ](img/fBodyAcc.mean.Y.png)
 
 
 ***
 - fBodyAcc.mean.Z
 
-![Alt ](fBodyAcc.mean.Z.png)
+![Alt ](img/fBodyAcc.mean.Z.png)
 
 
 ***
 - fBodyAccJerk.mean.X
 
-![Alt ](fBodyAccJerk.mean.X.png)
+![Alt ](img/fBodyAccJerk.mean.X.png)
 
 
 ***
 - fBodyAccJerk.mean.Y
 
-![Alt ](fBodyAccJerk.mean.Y.png)
+![Alt ](img/fBodyAccJerk.mean.Y.png)
 
 
 ***
 - fBodyAccJerk.mean.Z
 
-![Alt ](fBodyAccJerk.mean.Z.png)
+![Alt ](img/fBodyAccJerk.mean.Z.png)
 
 
 ***
 - fBodyGyro.mean.X
 
-![Alt ](fBodyGyro.mean.X.png)
+![Alt ](img/fBodyGyro.mean.X.png)
 
 
 ***
 - fBodyGyro.mean.Y
 
-![Alt ](fBodyGyro.mean.Y.png)
+![Alt ](img/fBodyGyro.mean.Y.png)
 
 
 ***
 - fBodyGyro.mean.Z
 
-![Alt ](fBodyGyro.mean.Z.png)
+![Alt ](img/fBodyGyro.mean.Z.png)
 
 
 ***
 - fBodyAccMag.mean.
 
-![Alt ](fBodyAccMag.mean..png)
+![Alt ](img/fBodyAccMag.mean..png)
 
 
 ***
 - fBodyBodyAccJerkMag.mean.
 
-![Alt ](fBodyBodyAccJerkMag.mean..png)
+![Alt ](img/fBodyBodyAccJerkMag.mean..png)
 
 
 ***
 - fBodyBodyGyroMag.mean.
 
-![Alt ](fBodyBodyGyroMag.mean..png)
+![Alt ](img/fBodyBodyGyroMag.mean..png)
 
 
 ***
 - fBodyBodyGyroJerkMag.mean.
 
-![Alt ](fBodyBodyGyroJerkMag.mean..png)
+![Alt ](img/fBodyBodyGyroJerkMag.mean..png)
 
 
 ***
 - tBodyAcc.std.X
 
-![Alt ](tBodyAcc.std.X.png)
+![Alt ](img/tBodyAcc.std.X.png)
 
 
 ***
 - tBodyAcc.std.Y
 
-![Alt ](tBodyAcc.std.Y.png)
+![Alt ](img/tBodyAcc.std.Y.png)
 
 
 ***
 - tBodyAcc.std.Z
 
-![Alt ](tBodyAcc.std.Z.png)
+![Alt ](img/tBodyAcc.std.Z.png)
 
 
 ***
 - tGravityAcc.std.X
 
-![Alt ](tGravityAcc.std.X.png)
+![Alt ](img/tGravityAcc.std.X.png)
 
 
 ***
 - tGravityAcc.std.Y
 
-![Alt ](tGravityAcc.std.Y.png)
+![Alt ](img/tGravityAcc.std.Y.png)
 
 
 ***
 - tGravityAcc.std.Z
 
-![Alt ](tGravityAcc.std.Z.png)
+![Alt ](img/tGravityAcc.std.Z.png)
 
 
 ***
 - tBodyAccJerk.std.X
 
-![Alt ](tBodyAccJerk.std.X.png)
+![Alt ](img/tBodyAccJerk.std.X.png)
 
 
 ***
 - tBodyAccJerk.std.Y
 
-![Alt ](tBodyAccJerk.std.Y.png)
+![Alt ](img/tBodyAccJerk.std.Y.png)
 
 
 ***
 - tBodyAccJerk.std.Z
 
-![Alt ](tBodyAccJerk.std.Z.png)
+![Alt ](img/tBodyAccJerk.std.Z.png)
 
 
 ***
 - tBodyGyro.std.X
 
-![Alt ](tBodyGyro.std.X.png)
+![Alt ](img/tBodyGyro.std.X.png)
 
 
 ***
 - tBodyGyro.std.Y
 
-![Alt ](tBodyGyro.std.Y.png)
+![Alt ](img/tBodyGyro.std.Y.png)
 
 
 ***
 - tBodyGyro.std.Z
 
-![Alt ](tBodyGyro.std.Z.png)
+![Alt ](img/tBodyGyro.std.Z.png)
 
 
 ***
 - tBodyGyroJerk.std.X
 
-![Alt ](tBodyGyroJerk.std.X.png)
+![Alt ](img/tBodyGyroJerk.std.X.png)
 
 
 ***
 - tBodyGyroJerk.std.Y
 
-![Alt ](tBodyGyroJerk.std.Y.png)
+![Alt ](img/tBodyGyroJerk.std.Y.png)
 
 
 ***
 - tBodyGyroJerk.std.Z
 
-![Alt ](tBodyGyroJerk.std.Z.png)
+![Alt ](img/tBodyGyroJerk.std.Z.png)
 
 
 ***
 - tBodyAccMag.std.
 
-![Alt ](tBodyAccMag.std..png)
+![Alt ](img/tBodyAccMag.std..png)
 
 
 ***
 - tGravityAccMag.std.
 
-![Alt ](tGravityAccMag.std..png)
+![Alt ](img/tGravityAccMag.std..png)
 
 
 ***
 - tBodyAccJerkMag.std.
 
-![Alt ](tBodyAccJerkMag.std..png)
+![Alt ](img/tBodyAccJerkMag.std..png)
 
 
 ***
 - tBodyGyroMag.std.
 
-![Alt ](tBodyGyroMag.std..png)
+![Alt ](img/tBodyGyroMag.std..png)
 
 
 ***
 - tBodyGyroJerkMag.std.
 
-![Alt ](tBodyGyroJerkMag.std..png)
+![Alt ](img/tBodyGyroJerkMag.std..png)
 
 
 ***
 - fBodyAcc.std.X
 
-![Alt ](fBodyAcc.std.X.png)
+![Alt ](img/fBodyAcc.std.X.png)
 
 
 ***
 - fBodyAcc.std.Y
 
-![Alt ](fBodyAcc.std.Y.png)
+![Alt ](img/fBodyAcc.std.Y.png)
 
 
 ***
 - fBodyAcc.std.Z
 
-![Alt ](fBodyAcc.std.Z.png)
+![Alt ](img/fBodyAcc.std.Z.png)
 
 
 ***
 - fBodyAccJerk.std.X
 
-![Alt ](fBodyAccJerk.std.X.png)
+![Alt ](img/fBodyAccJerk.std.X.png)
 
 
 ***
 - fBodyAccJerk.std.Y
 
-![Alt ](fBodyAccJerk.std.Y.png)
+![Alt ](img/fBodyAccJerk.std.Y.png)
 
 
 ***
 - fBodyAccJerk.std.Z
 
-![Alt ](fBodyAccJerk.std.Z.png)
+![Alt ](img/fBodyAccJerk.std.Z.png)
 
 
 ***
 - fBodyGyro.std.X
 
-![Alt ](fBodyGyro.std.X.png)
+![Alt ](img/fBodyGyro.std.X.png)
 
 
 ***
 - fBodyGyro.std.Y
 
-![Alt ](fBodyGyro.std.Y.png)
+![Alt ](img/fBodyGyro.std.Y.png)
 
 
 ***
 - fBodyGyro.std.Z
 
-![Alt ](fBodyGyro.std.Z.png)
+![Alt ](img/fBodyGyro.std.Z.png)
 
 
 ***
 - fBodyAccMag.std.
 
-![Alt ](fBodyAccMag.std..png)
+![Alt ](img/fBodyAccMag.std..png)
 
 
 ***
 - fBodyBodyAccJerkMag.std.
 
-![Alt ](fBodyBodyAccJerkMag.std..png)
+![Alt ](img/fBodyBodyAccJerkMag.std..png)
 
 
 ***
 - fBodyBodyGyroMag.std.
 
-![Alt ](fBodyBodyGyroMag.std..png)
+![Alt ](img/fBodyBodyGyroMag.std..png)
 
 
 ***
 - fBodyBodyGyroJerkMag.std.
 
-![Alt ](fBodyBodyGyroJerkMag.std..png)
+![Alt ](img/fBodyBodyGyroJerkMag.std..png)
 
 ## Activities
 1. WALKING
